@@ -254,13 +254,22 @@ Histograms:
 
 
 Count plots:
-OUTPUT-21 OUTPUT-22 OUTPUT-23
-
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/a4481007-866b-47ad-bb69-4900fc1f3a69)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/b6827725-d64b-4e2f-807d-ba2d53c41b64)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/083ef5d0-e778-4235-b965-96d4b898b835)
 Bar Charts:
-OUTPUT-24 OUTPUT-25 OUTPUT-26 OUTPUT-27 OUTPUT-28
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/9147d564-7e93-43d9-bf67-2bf0798cc84d)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/61a1600f-d4eb-45e6-82a9-7a6f080d8df2)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/4bea3570-db1a-441d-b0fe-23334bfe8401)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/b845ebce-7a2d-492a-a70b-10c947577ae6)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/d2dd46eb-c39e-48d3-b99a-3f0b3036bb51)
+
 
 KDE Plots:
-OUTPUT-29 OUTPUT-30
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/9bb965d3-13af-4b33-9b31-fc1178d12637)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/4c69b948-46ff-4811-ada1-7a58d5b4ef4c)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/47c0b5dc-fa3f-452c-8e15-50dcb9d74e1d)
+
 
 Violin Plot:
 OUTPUT-31 OUTPUT-32 OUTPUT-33
