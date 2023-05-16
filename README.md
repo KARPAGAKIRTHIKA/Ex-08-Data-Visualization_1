@@ -248,7 +248,10 @@ Bar Plots:
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/3421d244-566b-44ff-9c51-cf20c51cc1d9)
 
 Histograms:
-OUTPUT-16 OUTPUT-17 OUTPUT-18 OUTPUT-19 OUTPUT-20
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/556ba177-daca-40a2-aa31-62c937538656)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/c3a99c7c-baf2-45b5-9d96-18aaaee22159)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/f716427a-27e8-4655-be32-ff36d5a78cf7)
+
 
 Count plots:
 OUTPUT-21 OUTPUT-22 OUTPUT-23
