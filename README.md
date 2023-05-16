@@ -214,22 +214,24 @@ plt.show()
 
 # OUPUT
 
-Initial Dataset:
+# Initial Dataset:
 
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/2ae5f626-f0a1-47e4-ae0f-e9b3cffbe5e3)
 
 
-Cleaned Dataset:
+# Cleaned Dataset:
 
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/a8fc5da5-7ae4-426a-b75b-f84721deee33)
 
 
-Removing Outliers:
+# Removing Outliers:
+
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/1e2d658b-f83a-42ef-9343-f15a913555b1)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/f02f9b71-da3e-475e-8557-f8a3d1a65d65)
 
 
-Line PLot:
+# Line PLot:
+
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/b546ff21-0d78-4fa0-89ba-4b7a65f436b1)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/0817e2e8-bdd7-4c5a-80b7-acaa41e1eb3b)
 
@@ -247,17 +249,21 @@ Bar Plots:
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/71bbdf42-2a63-4e44-b025-cc2fa8a14a47)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/3421d244-566b-44ff-9c51-cf20c51cc1d9)
 
-Histograms:
+# Histograms:
+
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/556ba177-daca-40a2-aa31-62c937538656)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/c3a99c7c-baf2-45b5-9d96-18aaaee22159)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/f716427a-27e8-4655-be32-ff36d5a78cf7)
 
 
-Count plots:
+# Count plots:
+
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/a4481007-866b-47ad-bb69-4900fc1f3a69)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/b6827725-d64b-4e2f-807d-ba2d53c41b64)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/083ef5d0-e778-4235-b965-96d4b898b835)
-Bar Charts:
+
+# Bar Charts:
+
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/9147d564-7e93-43d9-bf67-2bf0798cc84d)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/61a1600f-d4eb-45e6-82a9-7a6f080d8df2)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/4bea3570-db1a-441d-b0fe-23334bfe8401)
@@ -265,24 +271,39 @@ Bar Charts:
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/d2dd46eb-c39e-48d3-b99a-3f0b3036bb51)
 
 
-KDE Plots:
+# KDE Plots:
+
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/9bb965d3-13af-4b33-9b31-fc1178d12637)
 ![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/4c69b948-46ff-4811-ada1-7a58d5b4ef4c)
-![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/47c0b5dc-fa3f-452c-8e15-50dcb9d74e1d)
 
 
-Violin Plot:
-OUTPUT-31 OUTPUT-32 OUTPUT-33
 
-Point Plots:
-OUTPUT-34
+# Violin Plot:
 
-Pie Charts:
-OUTPUT-35 OUTPUT-36 OUTPUT-37 OUTPUT-38 OUTPUT-39
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/00caac54-1915-4193-85bd-90daf6be3f4e)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/1fb3fbda-6218-413e-828a-41da3d33b195)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/f18f5774-cde7-4722-af8b-23fd6fe22290)
 
-HeatMap:
-OUTPUT-40
+
+# Point Plots:
+
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/c6b2baed-a1a6-4506-8943-60956ed6e2dd)
+
+
+# Pie Charts:
+
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/1dc9c804-b915-444e-ba50-6919cff3ea96)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/986f9907-af0c-4b85-bd9c-7e5aa90ea541)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/c5090cec-7463-4d0d-b3f7-cfcd67e59639)
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/98918471-86e6-4643-821c-d6478517b22d)
+
+
+# HeatMap:
+
+![image](https://github.com/KARPAGAKIRTHIKA/Ex-08-Data-Visualization_1/assets/103020162/ef1f1b52-69e4-4e08-918e-ef77bec283fd)
+
 
 # Result:
+
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
 
